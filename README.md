@@ -1,4 +1,4 @@
-# Portfolio Website – Assignment 4 (Final Project)
+# Portfolio Website 
 
 ## Project Description
 
